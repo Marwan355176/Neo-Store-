@@ -1,0 +1,14 @@
+Welcome Neo Store Owner this is your guide to use your website you should read this file before using your website 
+
+1- Don't Change any file from any web files 
+2- if you need to insert any photo to your home page
+
+    "<div class="product">
+            <img src="home menu files/Your photo name and extension" alt= "Product">
+            <p>This amazing t-shirt is priced at "The price you need" EGP. Click <a href="Paying menu/paying menu.html">here</a> to buy.</p>
+    </div>"
+
+     Don't forget to delete this mark ("")
+     Put the photo in the folder that named in home menu files
+     Don't forget to save your work
+
